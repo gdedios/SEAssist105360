@@ -6,7 +6,7 @@
 
 #### Customer: _BBVA México_
 
-#### Sub-title about your assist goes here with any relevant <a href="https://developer.salesforce.com/">links...</a>
+#### Communications Card Component
 
 <h4 align="center">
 	<a href="https://salesforce.quip.com/wBOSA8FdJlfn">Quip with Info</a> 
