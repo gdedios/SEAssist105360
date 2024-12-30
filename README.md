@@ -32,10 +32,6 @@ This works in either SDOs or IDOs. Already tested in the FINS IDO of May 2024.
 
 ### Install
 
-_Add installation instructions here._
-
-_Below is an example of what that might look like._
-
 Deploy the source:
 
 1. Clone this repository:
